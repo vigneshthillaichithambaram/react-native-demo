@@ -1,18 +1,17 @@
 {
-  "name": "react-native-demo",
+  "name": "react-native-publish-demo-vignesh",
   "version": "1.0.0",
-  "description": "test react native package publish",
+  "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test, demo"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vigneshthillaichithambaram/react-native-demo.git"
   },
   "keywords": [
-    "test",
-    "demo"
+    "test"
   ],
   "author": "vigneshthillaichithambaram",
   "license": "ISC",
